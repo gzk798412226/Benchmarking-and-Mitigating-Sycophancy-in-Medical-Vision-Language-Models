@@ -1,0 +1,12 @@
+# Core dependencies
+pandas>=2.0.0
+pyyaml>=6.0
+
+# API clients (install as needed)
+openai>=1.0.0
+anthropic>=0.18.0  # Optional: for Claude API
+google-generativeai>=0.3.0  # Optional: for Gemini API
+
+# Image processing (optional, for local image handling)
+Pillow>=10.0.0
+
